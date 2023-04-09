@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "peTsy4lvaP285XYIYJitJ+06xAxvFj2vMRpw0vDD5HWr5DEIUwhE5BPtstcVZA0e70rMW1cazfK66ee34r1Lbw==",
+  "dgSpecHash": "wr5yYqQ8SOtPk0AqAeo/+JFQjnWw62ZV7j6pYCsqwdMDu54gPHhtVMalDr4RC5O6Qi+SUAP0k99tBwJNLdkF9w==",
   "success": true,
   "projectFilePath": "F:\\Wrokspace\\RMQMicroservices\\RMQMicroservice.Domain.Core\\RMQMicroservice.Domain.Core\\RMQMicroservice.Domain.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Dell\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }
