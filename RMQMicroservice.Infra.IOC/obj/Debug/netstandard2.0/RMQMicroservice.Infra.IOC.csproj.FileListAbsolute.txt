@@ -8,3 +8,8 @@ F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\obj\Debug\netstandard2.0
 F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\obj\Debug\netstandard2.0\RMQMicroservice.Infra.IOC.csproj.CoreCompileInputs.cache
 F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\obj\Debug\netstandard2.0\RMQMicroservice.Infra.IOC.dll
 F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\obj\Debug\netstandard2.0\RMQMicroservice.Infra.IOC.pdb
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\bin\Debug\netstandard2.0\RMQMicroservice.Domain.Core.dll
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\bin\Debug\netstandard2.0\RMQMicroservice.Infra.Bus.dll
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\bin\Debug\netstandard2.0\RMQMicroservice.Domain.Core.pdb
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\bin\Debug\netstandard2.0\RMQMicroservice.Infra.Bus.pdb
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\obj\Debug\netstandard2.0\RMQMicroservice.Infra.IOC.csproj.CopyComplete

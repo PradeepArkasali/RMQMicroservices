@@ -1,0 +1,12 @@
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Domain\bin\Debug\net6.0\RMQMicrosrevices.Banking.Domain.deps.json
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Domain\bin\Debug\net6.0\RMQMicrosrevices.Banking.Domain.dll
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Domain\bin\Debug\net6.0\RMQMicrosrevices.Banking.Domain.pdb
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Domain\obj\Debug\net6.0\RMQMicrosrevices.Banking.Domain.csproj.AssemblyReference.cache
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Domain\obj\Debug\net6.0\RMQMicrosrevices.Banking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Domain\obj\Debug\net6.0\RMQMicrosrevices.Banking.Domain.AssemblyInfoInputs.cache
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Domain\obj\Debug\net6.0\RMQMicrosrevices.Banking.Domain.AssemblyInfo.cs
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Domain\obj\Debug\net6.0\RMQMicrosrevices.Banking.Domain.csproj.CoreCompileInputs.cache
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Domain\obj\Debug\net6.0\RMQMicrosrevices.Banking.Domain.dll
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Domain\obj\Debug\net6.0\refint\RMQMicrosrevices.Banking.Domain.dll
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Domain\obj\Debug\net6.0\RMQMicrosrevices.Banking.Domain.pdb
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Domain\obj\Debug\net6.0\ref\RMQMicrosrevices.Banking.Domain.dll

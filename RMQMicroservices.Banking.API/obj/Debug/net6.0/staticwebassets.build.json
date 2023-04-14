@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VyKs7dT/jXknX7zajmFKZGQAWA2fe9UpqCK6vSIPqrM=",
+  "Source": "RMQMicroservices.Banking.API",
+  "BasePath": "_content/RMQMicroservices.Banking.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
