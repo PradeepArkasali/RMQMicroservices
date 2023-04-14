@@ -1,0 +1,10 @@
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\bin\Debug\netstandard2.0\RMQMicroservice.Infra.IOC.deps.json
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\bin\Debug\netstandard2.0\RMQMicroservice.Infra.IOC.dll
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\bin\Debug\netstandard2.0\RMQMicroservice.Infra.IOC.pdb
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\obj\Debug\netstandard2.0\RMQMicroservice.Infra.IOC.csproj.AssemblyReference.cache
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\obj\Debug\netstandard2.0\RMQMicroservice.Infra.IOC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\obj\Debug\netstandard2.0\RMQMicroservice.Infra.IOC.AssemblyInfoInputs.cache
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\obj\Debug\netstandard2.0\RMQMicroservice.Infra.IOC.AssemblyInfo.cs
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\obj\Debug\netstandard2.0\RMQMicroservice.Infra.IOC.csproj.CoreCompileInputs.cache
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\obj\Debug\netstandard2.0\RMQMicroservice.Infra.IOC.dll
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.IOC\obj\Debug\netstandard2.0\RMQMicroservice.Infra.IOC.pdb

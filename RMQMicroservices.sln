@@ -11,9 +11,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.IoC", "Infra.IoC", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{5CA6115B-E096-4FC2-87FC-4BD4E303574F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMQMicroservice.Domain.Core", "RMQMicroservice.Domain.Core\RMQMicroservice.Domain.Core\RMQMicroservice.Domain.Core.csproj", "{FEEADE61-B0E5-49D6-B066-7519E0FA10F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RMQMicroservice.Domain.Core", "RMQMicroservice.Domain.Core\RMQMicroservice.Domain.Core\RMQMicroservice.Domain.Core.csproj", "{FEEADE61-B0E5-49D6-B066-7519E0FA10F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMQMicroservice.Infra.Bus", "RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus.csproj", "{B2586C0E-69C0-4680-8C2C-2C51E652B66E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RMQMicroservice.Infra.Bus", "RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus.csproj", "{B2586C0E-69C0-4680-8C2C-2C51E652B66E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMQMicroservice.Infra.IOC", "RMQMicroservice.Infra.IOC\RMQMicroservice.Infra.IOC.csproj", "{AD455CF7-6A6F-4D73-98C0-C557717945DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{B2586C0E-69C0-4680-8C2C-2C51E652B66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2586C0E-69C0-4680-8C2C-2C51E652B66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2586C0E-69C0-4680-8C2C-2C51E652B66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD455CF7-6A6F-4D73-98C0-C557717945DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD455CF7-6A6F-4D73-98C0-C557717945DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD455CF7-6A6F-4D73-98C0-C557717945DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD455CF7-6A6F-4D73-98C0-C557717945DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +42,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{FEEADE61-B0E5-49D6-B066-7519E0FA10F3} = {B4FBD1F3-F6F8-4719-9BA7-E3773C267759}
 		{B2586C0E-69C0-4680-8C2C-2C51E652B66E} = {D67FD685-949F-4342-91EC-7CD4423796BC}
+		{AD455CF7-6A6F-4D73-98C0-C557717945DB} = {6EF07B61-D36C-4DFB-AC56-06C26007CC9B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9A767F37-9AFD-464B-813C-F47C5C2EDE68}
