@@ -10,3 +10,8 @@ F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Data\obj\Debug\net6.0\RMQ
 F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Data\obj\Debug\net6.0\refint\RMQMicrosrevices.Banking.Data.dll
 F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Data\obj\Debug\net6.0\RMQMicrosrevices.Banking.Data.pdb
 F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Data\obj\Debug\net6.0\ref\RMQMicrosrevices.Banking.Data.dll
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Data\bin\Debug\net6.0\RMQMicrosrevices.Banking.Data.runtimeconfig.json
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Data\obj\Debug\net6.0\RMQMicrosrevices.Banking.Data.genruntimeconfig.cache
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Data\bin\Debug\net6.0\RMQMicrosrevices.Banking.Domain.dll
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Data\bin\Debug\net6.0\RMQMicrosrevices.Banking.Domain.pdb
+F:\Wrokspace\RMQMicroservices\RMQMicrosrevices.Banking.Data\obj\Debug\net6.0\RMQMicrosrevices.Banking.Data.csproj.CopyComplete
