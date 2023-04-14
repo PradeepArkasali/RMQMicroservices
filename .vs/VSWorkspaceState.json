@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RMQMicroservice.Infra.Bus",
+    "\\RMQMicroservice.Infra.Bus\\RMQMicroservice.Infra.Bus"
   ],
+  "SelectedNode": "\\RMQMicroservice.Infra.Bus\\RMQMicroservice.Infra.Bus\\RabbitMQBus.cs",
   "PreviewInSolutionExplorer": false
 }

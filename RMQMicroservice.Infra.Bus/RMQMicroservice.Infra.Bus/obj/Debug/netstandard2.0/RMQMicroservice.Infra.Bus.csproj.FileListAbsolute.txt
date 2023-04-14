@@ -1,0 +1,13 @@
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus\bin\Debug\netstandard2.0\RMQMicroservice.Infra.Bus.deps.json
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus\bin\Debug\netstandard2.0\RMQMicroservice.Infra.Bus.dll
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus\bin\Debug\netstandard2.0\RMQMicroservice.Infra.Bus.pdb
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus\obj\Debug\netstandard2.0\RMQMicroservice.Infra.Bus.csproj.AssemblyReference.cache
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus\obj\Debug\netstandard2.0\RMQMicroservice.Infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus\obj\Debug\netstandard2.0\RMQMicroservice.Infra.Bus.AssemblyInfoInputs.cache
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus\obj\Debug\netstandard2.0\RMQMicroservice.Infra.Bus.AssemblyInfo.cs
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus\obj\Debug\netstandard2.0\RMQMicroservice.Infra.Bus.csproj.CoreCompileInputs.cache
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus\obj\Debug\netstandard2.0\RMQMicroservice.Infra.Bus.dll
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus\obj\Debug\netstandard2.0\RMQMicroservice.Infra.Bus.pdb
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus\bin\Debug\netstandard2.0\RMQMicroservice.Domain.Core.dll
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus\bin\Debug\netstandard2.0\RMQMicroservice.Domain.Core.pdb
+F:\Wrokspace\RMQMicroservices\RMQMicroservice.Infra.Bus\RMQMicroservice.Infra.Bus\obj\Debug\netstandard2.0\RMQMicroservice.Infra.Bus.csproj.CopyComplete

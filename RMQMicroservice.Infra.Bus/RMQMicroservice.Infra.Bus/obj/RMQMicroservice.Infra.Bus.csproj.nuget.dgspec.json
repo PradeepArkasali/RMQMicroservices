@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Wrokspace\\RMQMicroservices\\RMQMicroservice.Infra.Bus\\RMQMicroservice.Infra.Bus\\RMQMicroservice.Infra.Bus.csproj": {}
+  },
+  "projects": {
+    "F:\\Wrokspace\\RMQMicroservices\\RMQMicroservice.Domain.Core\\RMQMicroservice.Domain.Core\\RMQMicroservice.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Wrokspace\\RMQMicroservices\\RMQMicroservice.Domain.Core\\RMQMicroservice.Domain.Core\\RMQMicroservice.Domain.Core.csproj",
+        "projectName": "RMQMicroservice.Domain.Core",
+        "projectPath": "F:\\Wrokspace\\RMQMicroservices\\RMQMicroservice.Domain.Core\\RMQMicroservice.Domain.Core\\RMQMicroservice.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "F:\\Wrokspace\\RMQMicroservices\\RMQMicroservice.Domain.Core\\RMQMicroservice.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Wrokspace\\RMQMicroservices\\RMQMicroservice.Infra.Bus\\RMQMicroservice.Infra.Bus\\RMQMicroservice.Infra.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Wrokspace\\RMQMicroservices\\RMQMicroservice.Infra.Bus\\RMQMicroservice.Infra.Bus\\RMQMicroservice.Infra.Bus.csproj",
+        "projectName": "RMQMicroservice.Infra.Bus",
+        "projectPath": "F:\\Wrokspace\\RMQMicroservices\\RMQMicroservice.Infra.Bus\\RMQMicroservice.Infra.Bus\\RMQMicroservice.Infra.Bus.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "F:\\Wrokspace\\RMQMicroservices\\RMQMicroservice.Infra.Bus\\RMQMicroservice.Infra.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "F:\\Wrokspace\\RMQMicroservices\\RMQMicroservice.Domain.Core\\RMQMicroservice.Domain.Core\\RMQMicroservice.Domain.Core.csproj": {
+                "projectPath": "F:\\Wrokspace\\RMQMicroservices\\RMQMicroservice.Domain.Core\\RMQMicroservice.Domain.Core\\RMQMicroservice.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
